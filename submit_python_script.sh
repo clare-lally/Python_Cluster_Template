@@ -1,4 +1,5 @@
 # Clare is editing from the browser
+# Clare is editing from the cluster
 
 #!/bin/bash
 # Script to call the job scheduler on the cluster
